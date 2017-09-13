@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BaseLibrary</string>
+
+    <string name="dialog_title_remined">提醒</string>
+    <string name="dialog_action_ok">确定</string>
+    <string name="dialog_action_cancel">取消</string>
+
+    <string name="net_error_notconected">无数据网络，请开关WiFi或者移动网络</string>
+    <string name="net_error_server_notconected">连接数据网络错误，请切换WiFi或者移动网络</string>
+    <string name="net_error_unknow">未知异常</string>
+    <string name="net_error_servererror">系统繁忙，请重试。</string>
+
+</resources>

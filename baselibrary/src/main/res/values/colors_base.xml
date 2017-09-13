@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="app_skin_red">#FC4949</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="translucent_5_black">#10000000</color>
+    <color name="translucent_10_black">#19000000</color>
+    <color name="translucent_15_black">#26000000</color>
+    <color name="translucent_20_black">#33000000</color>
+    <color name="translucent_30_black">#4C000000</color>
+    <color name="translucent_40_black">#66000000</color>
+    <color name="translucent_50_black">#7F000000</color>
+    <color name="translucent_60_black">#99000000</color>
+    <color name="translucent_70_black">#B3000000</color>
+    <color name="translucent_80_black">#CC000000</color>
+    <color name="transparent_50_black">#80000000</color>
+    <color name="transparent_40_black">#66000000</color>
+    <color name="transparent_65_black">#A5000000</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#FF58616d</color>
+    <color name="grey_dark">#959595</color>
+    <color name="grey_light">#cecece</color>
+    <color name="red">#fe0000</color>
+    <color name="green">#29ca64</color>
+    <color name="orange">#EEC900</color>
+    <color name="blue">#3A5FCD</color>
+    <color name="blue_light">#5CACEE</color>
+    <color name="blue_dark">#519AD3</color>
+
+    <color name="diver">#F9F9F9</color>
+    <color name="diver_dark">#cecece</color>
+
+    <color name="bg_gray_write_light">#F9F9F9</color>
+    <color name="bg_red_light">#FC4949</color>
+    <color name="bg_gray_light">#F4F4F4</color>
+
+    <color name="text_black_gray">#333333</color>
+    <color name="text_gray">#808080</color>
+    <color name="text_gray_light">#aaaaaa</color>
+    <color name="text_blue">#3A5FCD</color>
+
+</resources>

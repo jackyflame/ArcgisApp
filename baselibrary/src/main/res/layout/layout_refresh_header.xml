@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="20dp">
+
+    <ProgressBar
+        android:id="@+id/progress_fresh_header"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:minWidth="30dp"/>
+
+    <TextView
+        android:id="@+id/txv_title_fresh_header"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:minWidth="100dp"
+        android:textSize="16sp"
+        android:textColor="@color/app_skin_red"
+        android:text="下拉开始加载"/>
+
+</LinearLayout>
